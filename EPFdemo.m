@@ -2,7 +2,6 @@ clc,clear
 
 addpath('./libsvm/');
 addpath('./drtoolbox/');
-addpath('./drtoolbox/techniques');
 
 %%%% give the parameters
 no_classes       = 16;
