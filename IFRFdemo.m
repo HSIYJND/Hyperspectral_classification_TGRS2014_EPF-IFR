@@ -2,7 +2,6 @@ clc,clear
 
 addpath('./libsvm/');
 addpath('./drtoolbox/');
-addpath('./drtoolbox/techniques');
 
 no_classes       = 16;
 no_train         = round(1024);
